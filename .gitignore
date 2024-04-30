@@ -1,0 +1,8 @@
+node_modules
+.vscode
+cert.pem
+key.pem
+index.js
+package-lock.json
+
+.DS_Store
